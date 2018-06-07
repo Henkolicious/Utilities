@@ -1,0 +1,30 @@
+// -----------------------------------------------------------------------------
+// This file contains all application-wide Sass variables.
+// -----------------------------------------------------------------------------
+// COLORS
+$color-primary: #D4AF37	;
+$color-primary-light: #FFD700;
+$color-primary-dark: #DAA520;
+
+$color-secondary: #333333;
+$color-secondary-light: #444444;
+$color-secondary-dark: #222222;
+
+$color-tertiary-light: #2998ff;
+$color-tertiary-dark: #5643fa;
+
+$color-text: #222222;
+$color-gray-light: #eee;
+$color-gray-mid: #999;
+$color-gray-dark: #444;
+$color-white: #fff;
+$color-black: #000;
+
+// FONT
+$default-font-size: 1.6rem;
+
+// GRID
+$grid-width: 114rem;
+$gutter-vertical: 8rem;
+$gutter-vertical-small: 6rem;
+$gutter-horizontal: 6rem;
