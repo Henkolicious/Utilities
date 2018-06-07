@@ -1,2 +1,2 @@
-# Main file 
-# https://sass-guidelin.es/
+# 7-1 Pattern
+## https://sass-guidelin.es/
